@@ -1,0 +1,20 @@
+C:\Users\user.UIT\source\repos\WindowsFormsApp47\bin\Debug\WindowsFormsApp47.exe.config
+C:\Users\user.UIT\source\repos\WindowsFormsApp47\bin\Debug\WindowsFormsApp47.exe
+C:\Users\user.UIT\source\repos\WindowsFormsApp47\bin\Debug\WindowsFormsApp47.pdb
+C:\Users\user.UIT\source\repos\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.csprojResolveAssemblyReference.cache
+C:\Users\user.UIT\source\repos\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.Form1.resources
+C:\Users\user.UIT\source\repos\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.Properties.Resources.resources
+C:\Users\user.UIT\source\repos\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.csproj.GenerateResource.Cache
+C:\Users\user.UIT\source\repos\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\source\repos\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.exe
+C:\Users\user.UIT\source\repos\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.pdb
+D:\Новая папка (2)\WindowsFormsApp47\bin\Debug\WindowsFormsApp47.exe.config
+D:\Новая папка (2)\WindowsFormsApp47\bin\Debug\WindowsFormsApp47.exe
+D:\Новая папка (2)\WindowsFormsApp47\bin\Debug\WindowsFormsApp47.pdb
+D:\Новая папка (2)\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.csprojResolveAssemblyReference.cache
+D:\Новая папка (2)\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.Form1.resources
+D:\Новая папка (2)\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.Properties.Resources.resources
+D:\Новая папка (2)\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.csproj.GenerateResource.Cache
+D:\Новая папка (2)\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.exe
+D:\Новая папка (2)\WindowsFormsApp47\obj\Debug\WindowsFormsApp47.pdb
